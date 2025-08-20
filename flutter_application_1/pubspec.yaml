@@ -10,8 +10,16 @@ dependencies:
   flutter:
     sdk: flutter
   fl_chart: ^0.69.0  
+  firebase_core: ^3.0.0
+  cloud_firestore: ^5.0.0
+  firebase_auth: ^5.0.0
 
 dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.jpg"   
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
